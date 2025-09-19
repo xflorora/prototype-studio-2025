@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sandstone | Rock | Desert
+* source:	https://sketchfab.com/3d-models/sandstone-rock-desert-aaea0c74a3c44c9da7722c215c66a05f
+* author:	YadroGames (https://sketchfab.com/erroratten)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sandstone | Rock | Desert" (https://sketchfab.com/3d-models/sandstone-rock-desert-aaea0c74a3c44c9da7722c215c66a05f) by YadroGames (https://sketchfab.com/erroratten) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -10,12 +10,8 @@ public class CarCollider : MonoBehaviour
     public GameObject videoPlayer;
     public AudioSource audioSource;
     public AudioClip audioClip;
-
-
-    void Start()
-    {
-        audioSource = GetComponent<AudioSource>();
-    }
+    //private bool onGround = false;
+    
 
     void OnTriggerEnter(Collider other)
     {
@@ -23,25 +19,21 @@ public class CarCollider : MonoBehaviour
         {
             Destroy(player);
             Debug.Log("Player collided");
-            AudioClip clip = audioClip;
+            audioSource.PlayOneShot(audioClip);
             rawImage.SetActive(true);
             videoPlayer.SetActive(true);
-            if (Input.GetKeyDown(KeyCode.Space))
-            {
-                SceneManager.LoadScene("gameoverscene");
-            }
-            //StartCoroutine("Endure");
+            //onGround = true;
+            StartCoroutine(nameof(Endure));
         }
     }
+    
 
-    /*IEnumerator Endure()
+   IEnumerator Endure()
     {
-        rawImage.SetActive(true);
-        videoPlayer.SetActive(true);
-        WaitForSeconds wait = new WaitForSeconds(10f);
+        yield return new WaitForSeconds(5f);
         SceneManager.LoadScene("gameoverscene");
         yield return null;
-    }*/
+    }
 
 
 }

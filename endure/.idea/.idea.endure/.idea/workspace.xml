@@ -8,198 +8,19 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.endure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.endure/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.plastic/plastic.changes" beforeDir="false" afterPath="$PROJECT_DIR$/.plastic/plastic.changes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.plastic/plastic.wktree" beforeDir="false" afterPath="$PROJECT_DIR$/.plastic/plastic.wktree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Import.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Import.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Import/Modular_Bridge_(_low_Poly_)_Game_Ready..meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/Tesla_Cybertruck.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/Tesla_Cybertruck.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/license.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/license.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/materials/Material.001_1.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/materials/Material.001_1.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/materials/Material.002_2.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/materials/Material.002_2.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/materials/Material.003_3.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/materials/Material.003_3.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/materials/Material.004_4.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/materials/Material.004_4.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/materials/Material.005_5.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/materials/Material.005_5.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/materials/Material.006_6.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/materials/Material.006_6.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/materials/Material.007_7.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/materials/Material.007_7.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/materials/Material_0.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/materials/Material_0.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_0_0_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_0_0_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_10_10_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_10_10_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_11_11_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_11_11_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_12_12_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_12_12_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_13_13_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_13_13_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_1_1_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_1_1_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_2_2_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_2_2_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_3_3_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_3_3_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_4_4_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_4_4_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_5_5_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_5_5_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_6_6_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_6_6_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_7_7_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_7_7_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_8_8_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_8_8_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_9_9_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/meshes/Object_9_9_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Cybertruck/textures.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/Modular_Bridge_(_low_Poly_)_Game_Ready..prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/Modular_Bridge_(_low_Poly_)_Game_Ready..prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/license.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/license.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/materials/bridge_road_1.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/materials/bridge_road_1.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/materials/bridge_road_baseColor_2.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/materials/bridge_road_baseColor_2.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/materials/concrete_0.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/materials/concrete_0.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/meshes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/meshes/Object_0_0_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/meshes/Object_0_0_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/meshes/Object_1_1_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/meshes/Object_1_1_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/meshes/Object_2_2_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/meshes/Object_2_2_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/meshes/Object_3_3_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/meshes/Object_3_3_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/meshes/Object_4_4_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/meshes/Object_4_4_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/meshes/Object_5_5_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/meshes/Object_5_5_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/meshes/Object_6_6_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/meshes/Object_6_6_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/meshes/Object_7_7_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/meshes/Object_7_7_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/meshes/Object_8_8_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/meshes/Object_8_8_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/meshes/Object_9_9_0.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/meshes/Object_9_9_0.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/textures.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/textures/bridge_road_baseColor_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/textures/bridge_road_baseColor_2.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/textures/bridge_road_normal_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/textures/bridge_road_normal_3.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/textures/concrete_baseColor_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/textures/concrete_baseColor_0.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/textures/concrete_normal_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Road/textures/concrete_normal_1.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Other/Settings/DefaultVolumeProfile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Other/Settings/DefaultVolumeProfile.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Libraries.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Libraries/SketchfabPlugin.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/OpenSans-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/OpenSans-Bold.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/OpenSans-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/OpenSans-Light.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/OpenSans-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/OpenSans-Regular.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/OpenSans-Semibold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/OpenSans-Semibold.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabGrey.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabGrey.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabWhite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/SketchfabWhite.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/TitilliumWeb-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/TitilliumWeb-Black.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/TitilliumWeb-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/TitilliumWeb-Bold.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/TitilliumWeb-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/TitilliumWeb-Light.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/TitilliumWeb-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/TitilliumWeb-Regular.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/TitilliumWeb-Semibold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/TitilliumWeb-Semibold.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/TitilliumWeb-Thin.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/TitilliumWeb-Thin.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/defaultAvatar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/defaultAvatar.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/defaultModel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/defaultModel.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/icon.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/planBiz.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/planBiz.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/planEnt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/planEnt.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/planPlus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/planPlus.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/planPrem.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/planPrem.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/planPro.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Resources/planPro.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Shaders.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Shaders/GLTFBumpToNormal.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Shaders/GLTFBumpToNormal.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Shaders/GLTFColorSpace.cginc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Shaders/GLTFColorSpace.cginc.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Shaders/GLTFFlipTexture.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Shaders/GLTFFlipTexture.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Shaders/GLTFPackOccMetalRough.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Dependencies/Shaders/GLTFPackOccMetalRough.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Scripts/AssetBrowser.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Scripts/AssetBrowser/SketchfabBrowserManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Scripts/AssetBrowser/SketchfabBrowserManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Scripts/AssetBrowser/SketchfabBrowserWindow.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Scripts/AssetBrowser/SketchfabBrowserWindow.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Scripts/AssetBrowser/SketchfabModelWindow.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Scripts/AssetBrowser/SketchfabModelWindow.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Scripts/Resizer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Scripts/Resizer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Scripts/SketchfabApi.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Scripts/SketchfabApi.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Scripts/SketchfabExporter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Scripts/SketchfabExporter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Scripts/SketchfabImporter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Scripts/SketchfabImporter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Scripts/SketchfabImporterWindow.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Scripts/SketchfabImporterWindow.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Scripts/SketchfabLogger.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Scripts/SketchfabLogger.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Scripts/SketchfabPlugin.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Scripts/SketchfabPlugin.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Scripts/SketchfabUI.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sketchfab For Unity/Scripts/SketchfabUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Other/Settings/PC_RPAsset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Other/Settings/PC_RPAsset.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Other/Settings/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Other/Settings/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/beginningscene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/beginningscene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/scene2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/scene2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CarCollider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CarCollider.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SceneChange.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SceneChange.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/8e1e6b1a770c005888cb55487c4237dc-2110403300.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/8e1e6b1a770c005888cb55487c4237dc-2110403300.jpg.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -292,7 +113,10 @@
       <workItem from="1757946635456" duration="504000" />
       <workItem from="1757959864357" duration="1896000" />
       <workItem from="1757963059919" duration="3388000" />
-      <workItem from="1757975805311" duration="4976000" />
+      <workItem from="1757975805311" duration="6366000" />
+      <workItem from="1758035173176" duration="4913000" />
+      <workItem from="1758053373227" duration="147000" />
+      <workItem from="1758061524040" duration="743000" />
     </task>
     <servers />
   </component>
