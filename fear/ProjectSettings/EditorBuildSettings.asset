@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/text 0.unity
+    guid: 41123d5056d4cf64f8a94eacb39c5f57
+  - enabled: 1
+    path: Assets/Scenes/fire ant.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/text 1.unity
+    guid: 22cad9275fa6389489619704842ae15d
+  - enabled: 1
+    path: Assets/Scenes/cicada killer.unity
+    guid: f5fcf0748ab3f724e9876404ba53b6f1
+  - enabled: 1
+    path: Assets/Scenes/text 2.unity
+    guid: 0101502c62b168c409a9966dbeff9da4
+  - enabled: 1
+    path: Assets/Scenes/spider.unity
+    guid: 07df7f322d5529d478d429657c0d2826
+  - enabled: 1
+    path: Assets/Scenes/text 3.unity
+    guid: 61e8baa49bfea9b4d972a990dca034fa
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
