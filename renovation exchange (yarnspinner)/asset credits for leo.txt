@@ -1,0 +1,19 @@
+asset credits for leo
+
+using the yarnspinner plugin
+
+model and 
+
+music: "bliss boutique" by xploshi
+
+Model Information:
+* title:	alex lion low poly rigged mixamo
+* source:	https://sketchfab.com/3d-models/alex-lion-low-poly-rigged-mixamo-c2eb0bf1c95e40aea3eb2470711e4913
+* author:	fatima19101703 (https://sketchfab.com/fatima19101703)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "alex lion low poly rigged mixamo" (https://sketchfab.com/3d-models/alex-lion-low-poly-rigged-mixamo-c2eb0bf1c95e40aea3eb2470711e4913) by fatima19101703 (https://sketchfab.com/fatima19101703) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
